@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/nancy-example/v15/Server/sqlite3/storage.ide-wal
+/.vs/nancy-example/v15/Server/sqlite3/storage.ide-shm
+/.vs/nancy-example/v15/Server/sqlite3/storage.ide
+/.vs/nancy-example/v15/Server/sqlite3/db.lock
+/.vs/nancy-example/DesignTimeBuild/.dtbcache
+/nancy-example/obj/nancy-example.csproj.nuget.g.targets
+/nancy-example/obj/nancy-example.csproj.nuget.g.props
+/nancy-example/obj/Debug/netcoreapp2.0/nancy-example.csproj.FileListAbsolute.txt
+/nancy-example/obj/Debug/netcoreapp2.0/nancy-example.AssemblyInfo.cs
+/nancy-example/bin/Debug/netcoreapp2.0/nancy-example.runtimeconfig.json
+/nancy-example/bin/Debug/netcoreapp2.0/nancy-example.runtimeconfig.dev.json
+/nancy-example/bin/Debug/netcoreapp2.0/nancy-example.deps.json
+/nancy-example/obj/project.assets.json
